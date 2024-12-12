@@ -27,8 +27,15 @@ a, a:hover, a:active, a:focus, span {
   max-width: 600px;
   min-width: 320px;
   width: 70%;
-  margin: auto;
+  margin-right: auto;
+  margin-left: auto;
 }
+
+.container img {
+  margin-bottom: 1%;
+  margin-top: 15%;
+} 
+
 .detailsInnerWrapper{
   padding-right: 5%
 }
